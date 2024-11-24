@@ -161,6 +161,8 @@ namespace I2.Loc
 
 		public void OnLocalize( bool Force = false )
 		{
+			// change font per language
+			mTermSecondary = FinalSecondaryTerm = "change_font_per_language";
 			if (!Force && (!enabled || gameObject==null || !gameObject.activeInHierarchy))
 				return;
 
@@ -355,6 +357,9 @@ namespace I2.Loc
 
 		public void SetTerm (string primary)
 		{
+			//change font per language
+			string secondary = "change_font_per_language";
+			FinalSecondaryTerm = mTermSecondary = secondary;
 			if (!string.IsNullOrEmpty(primary))
 				FinalTerm = mTerm = primary;
 
@@ -363,6 +368,9 @@ namespace I2.Loc
 
 		public void SetTerm(string primary, string secondary )
 		{
+			//change font per language
+			secondary = "change_font_per_language";
+			//
 			if (!string.IsNullOrEmpty(primary))
 				FinalTerm = mTerm = primary;
 			FinalSecondaryTerm = mTermSecondary = secondary;

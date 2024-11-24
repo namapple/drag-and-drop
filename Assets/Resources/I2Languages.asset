@@ -5949,6 +5949,27 @@ MonoBehaviour:
       - "\u0E40\u0E1B\u0E34\u0E14"
       Flags: 000000000000000000000000000000
       Languages_Touch: []
+    - Term: change_font_per_language
+      TermType: 9
+      Description: 
+      Languages:
+      - BalooDa2-ExtraBold SDF_Indonesian
+      - BalooDa2-ExtraBold SDF
+      - BalooDa2-ExtraBold SDF
+      - BalooDa2-ExtraBold SDF
+      - BalooDa2-ExtraBold SDF
+      - BalooDa2-ExtraBold SDF
+      - BalooDa2-ExtraBold SDF_VietNam
+      - BalooDa2-ExtraBold SDF
+      - BalooDa2-ExtraBold SDF
+      - BalooDa2-ExtraBold SDF
+      - BalooDa2-ExtraBold SDF
+      - BalooDa2-ExtraBold SDF
+      - BalooDa2-ExtraBold SDF
+      - BalooDa2-ExtraBold SDF
+      - BalooDa2-ExtraBold SDF
+      Flags: 000000000000000000000000000000
+      Languages_Touch: []
     - Term: GoldCollection/goal_type_999
       TermType: 0
       Description: 
@@ -46444,13 +46465,16 @@ MonoBehaviour:
     Google_WebServiceURL: https://script.google.com/macros/s/AKfycbwx8e4FeC3qLYTx46pq8PLHRLid_dqJmsr6OJsJbsMdgkbyIb39e0ci4_2mzS-NkXiv/exec
     Google_SpreadsheetKey: 182mAa72-v6Bd7w7p2hf7EoX7sitijQPA2VBrTw3mLE4
     Google_SpreadsheetName: I2Loc Cooking Chef Fast
-    Google_LastUpdatedVersion: 1732267637528
+    Google_LastUpdatedVersion: 1732460864403
     Google_Password: GHM1BDolar
     GoogleUpdateFrequency: 3
     GoogleInEditorCheckFrequency: 2
     GoogleUpdateSynchronization: 1
     GoogleUpdateDelay: 0
-    Assets: []
+    Assets:
+    - {fileID: 11400000, guid: b02e1c9fa92463a4f81140a4b2a263aa, type: 2}
+    - {fileID: 11400000, guid: b4ae5d9d087f5f94b831712d5caf886f, type: 2}
+    - {fileID: 11400000, guid: a45aca964f51ef2468fdd54eb5a10f26, type: 2}
     Spreadsheet_LocalFileName: 
     Spreadsheet_LocalCSVSeparator: ','
     Spreadsheet_LocalCSVEncoding: utf-8
