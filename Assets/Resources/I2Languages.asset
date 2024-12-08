@@ -5831,7 +5831,7 @@ MonoBehaviour:
       - "Navegaci\xF3n"
       - "\uD56D\uD574"
       - "\u30CA\u30D3\u30B2\u30FC\u30B7\u30E7\u30F3"
-      - "B\u1EA3n \u0110\u1ED3"
+      - "B\u1EA3n \u0111\u1ED3"
       - "\u041D\u0430\u0432\u0438\u0433\u0430\u0446\u0438\u044F"
       - "Navega\xE7\xE3o"
       - Navigazione
@@ -5968,6 +5968,275 @@ MonoBehaviour:
       - BalooDa2-ExtraBold SDF
       - BalooDa2-ExtraBold SDF
       - BalooDa2-ExtraBold SDF
+      Flags: 000000000000000000000000000000
+      Languages_Touch: []
+    - Term: txt_title_player_info
+      TermType: 0
+      Description: 
+      Languages:
+      - Profile
+      - Profil
+      - Profil
+      - Perfil
+      - "\uD504\uB85C\uD544"
+      - "\u30D7\u30ED\u30D5\u30A3\u30FC\u30EB"
+      - "H\u1ED3 s\u01A1"
+      - "\u041F\u0440\u043E\u0444\u0438\u043B\u044C"
+      - Perfil
+      - Profilo
+      - "\u4E2A\u4EBA\u8D44\u6599"
+      - Profiel
+      - Profil
+      - Profil
+      - "\u0E42\u0E1B\u0E23\u0E44\u0E1F\u0E25\u0E4C"
+      Flags: 000000000000000000000000000000
+      Languages_Touch: []
+    - Term: txt_player_content
+      TermType: 0
+      Description: 
+      Languages:
+      - General Stats
+      - "Statistiques g\xE9n\xE9rales"
+      - Allgemeine Statistiken
+      - "Estad\xEDsticas generales"
+      - "\uC77C\uBC18 \uD1B5\uACC4"
+      - "\u4E00\u822C\u7D71\u8A08"
+      - "Th\u1ED1ng k\xEA chung"
+      - "\u041E\u0431\u0449\u0430\u044F \u0441\u0442\u0430\u0442\u0438\u0441\u0442\u0438\u043A\u0430"
+      - "Estat\xEDsticas gerais"
+      - Statistiche generali
+      - "\u7EFC\u5408\u7EDF\u8BA1"
+      - Algemene statistieken
+      - Statistik Umum
+      - "Genel \u0130statistikler"
+      - "\u0E2A\u0E16\u0E34\u0E15\u0E34\u0E17\u0E31\u0E48\u0E27\u0E44\u0E1B"
+      Flags: 000000000000000000000000000000
+      Languages_Touch: []
+    - Term: txt_player_first_win
+      TermType: 0
+      Description: 
+      Languages:
+      - First Try Wins
+      - Victoires du premier coup
+      - Erfolge beim ersten Versuch
+      - Victorias al primer intento
+      - "\uCCAB \uC2DC\uB3C4 \uC2B9\uB9AC"
+      - "\u521D\u56DE\u6311\u6226\u3067\u306E\u52DD\u5229"
+      - "Th\u1EAFng ngay l\u1EA7n \u0111\u1EA7u"
+      - "\u041F\u043E\u0431\u0435\u0434\u044B \u0441 \u043F\u0435\u0440\u0432\u043E\u0439
+        \u043F\u043E\u043F\u044B\u0442\u043A\u0438"
+      - "Vit\xF3rias na primeira tentativa"
+      - Vittorie al primo tentativo
+      - "\u9996\u6B21\u5C1D\u8BD5\u80DC\u5229"
+      - Overwinningen bij eerste poging
+      - Menang di Percobaan Pertama
+      - "\u0130lk Deneme Kazan\u0131mlar\u0131"
+      - "\u0E0A\u0E19\u0E30\u0E43\u0E19\u0E04\u0E23\u0E31\u0E49\u0E07\u0E41\u0E23\u0E01"
+      Flags: 000000000000000000000000000000
+      Languages_Touch: []
+    - Term: txt_player_help
+      TermType: 0
+      Description: 
+      Languages:
+      - Helps Made
+      - "Aides apport\xE9es"
+      - Geleistete Hilfen
+      - Ayudas realizadas
+      - "\uB3C4\uC6C0\uC744 \uC900 \uD69F\uC218"
+      - "\u652F\u63F4\u3057\u305F\u56DE\u6570"
+      - "Gi\xFAp \u0111\u1EE1"
+      - "\u041E\u043A\u0430\u0437\u0430\u043D\u043D\u0430\u044F \u043F\u043E\u043C\u043E\u0449\u044C"
+      - Ajudas realizadas
+      - Aiuti forniti
+      - "\u63D0\u4F9B\u7684\u5E2E\u52A9\u6B21\u6570"
+      - Gegeven hulp
+      - Bantuan yang Diberikan
+      - "Yap\u0131lan Yard\u0131mlar"
+      - "\u0E04\u0E27\u0E32\u0E21\u0E0A\u0E48\u0E27\u0E22\u0E40\u0E2B\u0E25\u0E37\u0E2D\u0E17\u0E35\u0E48\u0E43\u0E2B\u0E49"
+      Flags: 000000000000000000000000000000
+      Languages_Touch: []
+    - Term: txt_player_help_receive
+      TermType: 0
+      Description: 
+      Languages:
+      - Helps Received
+      - "Aides re\xE7ues"
+      - Erhaltene Hilfen
+      - Ayudas recibidas
+      - "\uB3C4\uC6C0\uC744 \uBC1B\uC740 \uD69F\uC218"
+      - "\u652F\u63F4\u3092\u53D7\u3051\u305F\u56DE\u6570"
+      - "Nh\u1EADn gi\xFAp \u0111\u1EE1"
+      - "\u041F\u043E\u043B\u0443\u0447\u0435\u043D\u043D\u0430\u044F \u043F\u043E\u043C\u043E\u0449\u044C"
+      - Ajudas recebidas
+      - Aiuti ricevuti
+      - "\u6536\u5230\u7684\u5E2E\u52A9\u6B21\u6570"
+      - Ontvangen hulp
+      - Bantuan yang Diterima
+      - "Al\u0131nan Yard\u0131mlar"
+      - "\u0E04\u0E27\u0E32\u0E21\u0E0A\u0E48\u0E27\u0E22\u0E40\u0E2B\u0E25\u0E37\u0E2D\u0E17\u0E35\u0E48\u0E44\u0E14\u0E49\u0E23\u0E31\u0E1A"
+      Flags: 000000000000000000000000000000
+      Languages_Touch: []
+    - Term: txt_player_area_unlock
+      TermType: 0
+      Description: 
+      Languages:
+      - Restaurants Opened
+      - Restaurants ouverts
+      - "Er\xF6ffnete Restaurants"
+      - Restaurantes abiertos
+      - "\uC624\uD508\uD55C \uB808\uC2A4\uD1A0\uB791"
+      - "\u30AA\u30FC\u30D7\u30F3\u3057\u305F\u30EC\u30B9\u30C8\u30E9\u30F3"
+      - "Nh\xE0 h\xE0ng \u0111\xE3 m\u1EDF"
+      - "\u041E\u0442\u043A\u0440\u044B\u0442\u044B\u0435 \u0440\u0435\u0441\u0442\u043E\u0440\u0430\u043D\u044B"
+      - Restaurantes abertos
+      - Ristoranti aperti
+      - "\u5DF2\u5F00\u4E1A\u7684\u9910\u5385"
+      - Geopende restaurants
+      - Restoran yang Dibuka
+      - "A\xE7\u0131lan Restoranlar"
+      - "\u0E23\u0E49\u0E32\u0E19\u0E2D\u0E32\u0E2B\u0E32\u0E23\u0E17\u0E35\u0E48\u0E40\u0E1B\u0E34\u0E14"
+      Flags: 000000000000000000000000000000
+      Languages_Touch: []
+    - Term: txt_no_team
+      TermType: 0
+      Description: 
+      Languages:
+      - No Team
+      - "Pas d'\xE9quipe"
+      - Kein Team
+      - Sin equipo
+      - "\uD300 \uC5C6\uC74C"
+      - "\u30C1\u30FC\u30E0\u306A\u3057"
+      - "Ch\u01B0a c\xF3 \u0111\u1ED9i"
+      - "\u0411\u0435\u0437 \u043A\u043E\u043C\u0430\u043D\u0434\u044B"
+      - Sem equipe
+      - Nessuna squadra
+      - "\u65E0\u961F\u4F0D"
+      - Geen team
+      - Tidak Ada Tim
+      - "Tak\u0131m Yok"
+      - "\u0E44\u0E21\u0E48\u0E21\u0E35\u0E17\u0E35\u0E21"
+      Flags: 000000000000000000000000000000
+      Languages_Touch: []
+    - Term: NoAdsPack/no_ads_title
+      TermType: 0
+      Description: 
+      Languages:
+      - Remove Ads
+      - "Supprimer les publicit\xE9s"
+      - Werbung entfernen
+      - Eliminar anuncios
+      - "\uAD11\uACE0 \uC81C\uAC70"
+      - "\u5E83\u544A\u3092\u524A\u9664\u3059\u308B"
+      - "X\xF3a qu\u1EA3ng c\xE1o"
+      - "\u0423\u0434\u0430\u043B\u0438\u0442\u044C \u0440\u0435\u043A\u043B\u0430\u043C\u0443"
+      - "Remover an\xFAncios"
+      - Rimuovi annunci
+      - "\u5220\u9664\u5E7F\u544A"
+      - Verwijder advertenties
+      - Hapus Iklan
+      - "Reklamlar\u0131 Kald\u0131r"
+      - "\u0E25\u0E1A\u0E42\u0E06\u0E29\u0E13\u0E32"
+      Flags: 000000000000000000000000000000
+      Languages_Touch: []
+    - Term: NoAdsPack/no_ads_benefit
+      TermType: 0
+      Description: 
+      Languages:
+      - Remove obligatory ads
+      - "Supprimer les publicit\xE9s obligatoires"
+      - Entfernen Sie obligatorische Anzeigen
+      - Eliminar anuncios obligatorios
+      - "\uD544\uC218 \uAD11\uACE0 \uC81C\uAC70"
+      - "\u7FA9\u52D9\u7684\u306A\u5E83\u544A\u3092\u524A\u9664\u3059\u308B"
+      - "X\xF3a qu\u1EA3ng c\xE1o b\u1EAFt bu\u1ED9c"
+      - "\u0423\u0434\u0430\u043B\u0438\u0442\u044C \u043E\u0431\u044F\u0437\u0430\u0442\u0435\u043B\u044C\u043D\u0443\u044E
+        \u0440\u0435\u043A\u043B\u0430\u043C\u0443"
+      - "Remova an\xFAncios obrigat\xF3rios"
+      - Rimuovi gli annunci obbligatori
+      - "\u5220\u9664\u5F3A\u5236\u5E7F\u544A"
+      - Verwijder verplichte advertenties
+      - Hapus iklan wajib
+      - "Zorunlu reklamlar\u0131 kald\u0131r\u0131n"
+      - "\u0E25\u0E1A\u0E42\u0E06\u0E29\u0E13\u0E32\u0E1A\u0E31\u0E07\u0E04\u0E31\u0E1A"
+      Flags: 000000000000000000000000000000
+      Languages_Touch: []
+    - Term: NoAdsPack/no_ads_continue_with_ADs
+      TermType: 0
+      Description: 
+      Languages:
+      - Continue with ADs
+      - Continuer avec les annonces
+      - Fahren Sie mit ADs fort
+      - Continuar con los anuncios
+      - "\uAD11\uACE0 \uACC4\uC18D\uD558\uAE30"
+      - "AD \u3092\u7D9A\u884C\u3059\u308B"
+      - "Ti\u1EBFp t\u1EE5c v\u1EDBi qu\u1EA3ng c\xE1o"
+      - "\u041F\u0440\u043E\u0434\u043E\u043B\u0436\u0438\u0442\u044C \u0440\u0430\u0431\u043E\u0442\u0443
+        \u0441 AD"
+      - "Continuar com an\xFAncios"
+      - Continua con gli annunci pubblicitari
+      - "\u7EE7\u7EED\u5E7F\u544A"
+      - Ga verder met advertenties
+      - Lanjutkan dengan Iklan
+      - AD'lerle devam et
+      - "\u0E14\u0E33\u0E40\u0E19\u0E34\u0E19\u0E01\u0E32\u0E23\u0E15\u0E48\u0E2D\u0E14\u0E49\u0E27\u0E22\u0E42\u0E06\u0E29\u0E13\u0E32"
+      Flags: 000000000000000000000000000000
+      Languages_Touch: []
+    - Term: NoAdsPack/no_ads_content2
+      TermType: 0
+      Description: 
+      Languages:
+      - Keep optional ads for rewards
+      - "Conservez les annonces facultatives pour les r\xE9compenses"
+      - "Behalten Sie optionale Anzeigen f\xFCr Pr\xE4mien bei"
+      - Mantenga anuncios opcionales para obtener recompensas
+      - "\uBCF4\uC0C1\uC744 \uC704\uD574 \uC120\uD0DD\uC801 \uAD11\uACE0\uB97C \uC720\uC9C0\uD558\uC138\uC694"
+      - "\u30AA\u30D7\u30B7\u30E7\u30F3\u306E\u5E83\u544A\u3092\u7279\u5178\u3068\u3057\u3066\u6B8B\u3057\u3066\u304A\u304F"
+      - "Gi\u1EEF qu\u1EA3ng c\xE1o t\xF9y ch\u1ECDn \u0111\u1EC3 nh\u1EADn ph\u1EA7n
+        th\u01B0\u1EDFng"
+      - "\u0421\u043E\u0445\u0440\u0430\u043D\u044F\u0439\u0442\u0435 \u043D\u0435\u043E\u0431\u044F\u0437\u0430\u0442\u0435\u043B\u044C\u043D\u0443\u044E
+        \u0440\u0435\u043A\u043B\u0430\u043C\u0443 \u0437\u0430 \u0432\u043E\u0437\u043D\u0430\u0433\u0440\u0430\u0436\u0434\u0435\u043D\u0438\u0435"
+      - "Mantenha an\xFAncios opcionais para recompensas"
+      - Conserva gli annunci facoltativi per i premi
+      - "\u4FDD\u7559\u53EF\u9009\u5E7F\u544A\u4EE5\u83B7\u5F97\u5956\u52B1"
+      - Bewaar optionele advertenties voor beloningen
+      - Simpan iklan opsional untuk mendapatkan hadiah
+      - "\xD6d\xFCller i\xE7in iste\u011Fe ba\u011Fl\u0131 reklamlar\u0131 saklay\u0131n"
+      - "\u0E40\u0E01\u0E47\u0E1A\u0E42\u0E06\u0E29\u0E13\u0E32\u0E40\u0E2A\u0E23\u0E34\u0E21\u0E44\u0E27\u0E49\u0E40\u0E1E\u0E37\u0E48\u0E2D\u0E23\u0E31\u0E1A\u0E23\u0E32\u0E07\u0E27\u0E31\u0E25"
+      Flags: 000000000000000000000000000000
+      Languages_Touch: []
+    - Term: NoAdsPack/no_ads_content1
+      TermType: 0
+      Description: 
+      Languages:
+      - Remove all pop-up ads. Keep optional ads for rewards
+      - "Supprimez toutes les publicit\xE9s pop-up. Conservez les annonces facultatives
+        pour les r\xE9compenses"
+      - "Entfernen Sie alle Popup-Anzeigen. Behalten Sie optionale Anzeigen f\xFCr
+        Pr\xE4mien bei"
+      - Elimine todos los anuncios emergentes. Mantenga anuncios opcionales para
+        obtener recompensas
+      - "\uBAA8\uB4E0 \uD31D\uC5C5 \uAD11\uACE0\uB97C \uC81C\uAC70\uD558\uC138\uC694.
+        \uBCF4\uC0C1\uC744 \uC704\uD574 \uC120\uD0DD\uC801 \uAD11\uACE0\uB97C \uC720\uC9C0\uD558\uC138\uC694"
+      - "\u3059\u3079\u3066\u306E\u30DD\u30C3\u30D7\u30A2\u30C3\u30D7\u5E83\u544A\u3092\u524A\u9664\u3057\u307E\u3059\u3002\u30AA\u30D7\u30B7\u30E7\u30F3\u306E\u5E83\u544A\u3092\u7279\u5178\u3068\u3057\u3066\u6B8B\u3057\u3066\u304A\u304F"
+      - "X\xF3a t\u1EA5t c\u1EA3 qu\u1EA3ng c\xE1o b\u1EADt l\xEAn. Gi\u1EEF qu\u1EA3ng
+        c\xE1o t\xF9y ch\u1ECDn \u0111\u1EC3 nh\u1EADn ph\u1EA7n th\u01B0\u1EDFng"
+      - "\u0423\u0434\u0430\u043B\u0438\u0442\u0435 \u0432\u0441\u044E \u0432\u0441\u043F\u043B\u044B\u0432\u0430\u044E\u0449\u0443\u044E
+        \u0440\u0435\u043A\u043B\u0430\u043C\u0443. \u0421\u043E\u0445\u0440\u0430\u043D\u044F\u0439\u0442\u0435
+        \u043D\u0435\u043E\u0431\u044F\u0437\u0430\u0442\u0435\u043B\u044C\u043D\u0443\u044E
+        \u0440\u0435\u043A\u043B\u0430\u043C\u0443 \u0437\u0430 \u0432\u043E\u0437\u043D\u0430\u0433\u0440\u0430\u0436\u0434\u0435\u043D\u0438\u0435"
+      - "Remova todos os an\xFAncios pop-up. Mantenha an\xFAncios opcionais para
+        recompensas"
+      - Rimuovi tutti gli annunci pop-up. Conserva gli annunci facoltativi per i
+        premi
+      - "\u5220\u9664\u6240\u6709\u5F39\u51FA\u5E7F\u544A\u3002\u4FDD\u7559\u53EF\u9009\u5E7F\u544A\u4EE5\u83B7\u5F97\u5956\u52B1"
+      - Verwijder alle pop-upadvertenties. Bewaar optionele advertenties voor beloningen
+      - Hapus semua iklan pop-up. Simpan iklan opsional untuk mendapatkan hadiah
+      - "T\xFCm a\xE7\u0131l\u0131r reklamlar\u0131 kald\u0131r\u0131n. \xD6d\xFCller
+        i\xE7in iste\u011Fe ba\u011Fl\u0131 reklamlar\u0131 saklay\u0131n"
+      - "\u0E25\u0E1A\u0E42\u0E06\u0E29\u0E13\u0E32\u0E1B\u0E4A\u0E2D\u0E1B\u0E2D\u0E31\u0E1B\u0E17\u0E31\u0E49\u0E07\u0E2B\u0E21\u0E14
+        \u0E40\u0E01\u0E47\u0E1A\u0E42\u0E06\u0E29\u0E13\u0E32\u0E40\u0E2A\u0E23\u0E34\u0E21\u0E44\u0E27\u0E49\u0E40\u0E1E\u0E37\u0E48\u0E2D\u0E23\u0E31\u0E1A\u0E23\u0E32\u0E07\u0E27\u0E31\u0E25"
       Flags: 000000000000000000000000000000
       Languages_Touch: []
     - Term: GoldCollection/goal_type_999
@@ -9249,21 +9518,26 @@ MonoBehaviour:
       Description: 
       Languages:
       - Serve {[GOAL]} steak dishes to customers in {[REST_NAME]}.
-      - 
-      - 
-      - 
-      - 
-      - 
+      - Servez des plats de steak {[GOAL]} aux clients de {[REST_NAME]}.
+      - Servieren Sie Kunden in {[REST_NAME]} {[GOAL]} Steakgerichte.
+      - Servir {[GOAL]} platos de carne a los clientes en {[REST_NAME]}.
+      - "{[REST_NAME]}\uC758 \uACE0\uAC1D\uC5D0\uAC8C {[GOAL]} \uC2A4\uD14C\uC774\uD06C
+        \uC694\uB9AC\uB97C \uC81C\uACF5\uD558\uC138\uC694."
+      - "{[REST_NAME]} \u3067\u9867\u5BA2\u306B {[GOAL]} \u7A2E\u985E\u306E\u30B9\u30C6\u30FC\u30AD\u6599\u7406\u3092\u63D0\u4F9B\u3057\u307E\u3059\u3002"
       - "Ph\u1EE5c v\u1EE5 {[GOAL]} \u0111\u0129a b\xF2 b\xEDt t\u1EBFt cho kh\xE1ch
         h\xE0ng \u1EDF {[REST_NAME]}."
-      - 
-      - 
-      - 
-      - 
-      - 
-      - 
-      - 
-      - 
+      - "\u041F\u043E\u0434\u0430\u0439\u0442\u0435 {[GOAL]} \u0441\u0442\u0435\u0439\u043A\u043E\u0432
+        \u043A\u043B\u0438\u0435\u043D\u0442\u0430\u043C \u0432 {[REST_NAME]}."
+      - Sirva {[GOAL]} pratos de filete aos clientes em {[REST_NAME]}.
+      - Servi {[GOAL]} piatti di bistecca ai clienti di {[REST_NAME]}.
+      - "\u4E3A{[REST_NAME]}\u7684\u987E\u5BA2\u63D0\u4F9B{[GOAL]}\u725B\u6392\u83DC\u80B4\u3002"
+      - Serveer {[GOAL]} steakgerechten aan klanten in {[REST_NAME]}.
+      - Sajikan hidangan steak {[GOAL]} kepada pelanggan di {[REST_NAME]}.
+      - "{[REST_NAME]}'deki m\xFC\u015Fterilere {[GOAL]} biftek yeme\u011Fi servis
+        edin."
+      - "\u0E40\u0E2A\u0E34\u0E23\u0E4C\u0E1F\u0E40\u0E21\u0E19\u0E39\u0E2A\u0E40\u0E15\u0E47\u0E01
+        {[GOAL]} \u0E43\u0E2B\u0E49\u0E01\u0E31\u0E1A\u0E25\u0E39\u0E01\u0E04\u0E49\u0E32\u0E43\u0E19
+        {[REST_NAME]}"
       Flags: 000000000000000000000000000000
       Languages_Touch: []
     - Term: Achievement/title_achi35
@@ -11174,7 +11448,7 @@ MonoBehaviour:
       - "\u0422\u0438\u043F \u043A\u043E\u043C\u0430\u043D\u0434\u044B"
       - Tipo de equipe
       - Tipo di squadra
-      - "\u961F\u4F0D\u7C7B\u578B"
+      - "\u56E2\u961F\u7C7B\u578B"
       - Teamtype
       - Tipe tim
       - "Tak\u0131m t\xFCr\xFC"
@@ -11195,7 +11469,7 @@ MonoBehaviour:
       - "\u0422\u0440\u0435\u0431\u0443\u0435\u043C\u044B\u0439 \u0443\u0440\u043E\u0432\u0435\u043D\u044C"
       - "N\xEDvel requerido"
       - Livello richiesto
-      - "\u6240\u9700\u7B49\u7EA7"
+      - "\u6240\u9700\u7EA7\u522B"
       - Vereist niveau
       - Tingkat yang diperlukan
       - Gereken seviye
@@ -11217,7 +11491,7 @@ MonoBehaviour:
         \u043A\u043E\u043C\u0430\u043D\u0434\u044B"
       - ID da equipe
       - Identificativo della squadra
-      - "\u961F\u4F0DID"
+      - "\u56E2\u961F ID"
       - Team-ID
       - ID tim
       - "Tak\u0131m Kimli\u011Fi"
@@ -11230,7 +11504,7 @@ MonoBehaviour:
       Languages:
       - Team score
       - "Score de l'\xE9quipe"
-      - Team-Punktzahl
+      - Teamwertung
       - "Puntuaci\xF3n del equipo"
       - "\uD300 \uC810\uC218"
       - "\u30C1\u30FC\u30E0 \u30B9\u30B3\u30A2"
@@ -11238,7 +11512,7 @@ MonoBehaviour:
       - "\u041A\u043E\u043C\u0430\u043D\u0434\u043D\u044B\u0439 \u0441\u0447\u0435\u0442"
       - "Pontua\xE7\xE3o da equipe"
       - Punteggio della squadra
-      - "\u961F\u4F0D\u5F97\u5206"
+      - "\u56E2\u961F\u5F97\u5206"
       - Teamscore
       - Skor tim
       - "Tak\u0131m puan\u0131"
@@ -11251,7 +11525,7 @@ MonoBehaviour:
       Languages:
       - Helps
       - Aide
-      - Hilfe
+      - Hilfen
       - Ayuda
       - "\uB3C4\uC6C0"
       - "\u30D8\u30EB\u30D7"
@@ -15184,6 +15458,48 @@ MonoBehaviour:
       - Dapatkan kehidupan gratis!
       - "Bedava canlar al\u0131n!"
       - "\u0E23\u0E31\u0E1A\u0E0A\u0E35\u0E27\u0E34\u0E15\u0E1F\u0E23\u0E35!"
+      Flags: 000000000000000000000000000000
+      Languages_Touch: []
+    - Term: Social/txt_view_profile
+      TermType: 0
+      Description: 
+      Languages:
+      - View Profile
+      - Voir le profil
+      - Profil anzeigen
+      - Ver perfil
+      - "\uD504\uB85C\uD544 \uBCF4\uAE30"
+      - "\u30D7\u30ED\u30D5\u30A3\u30FC\u30EB\u3092\u898B\u308B"
+      - "Xem h\u1ED3 s\u01A1"
+      - "\u041F\u043E\u0441\u043C\u043E\u0442\u0440\u0435\u0442\u044C \u043F\u0440\u043E\u0444\u0438\u043B\u044C"
+      - Ver perfil
+      - Visualizza profilo
+      - "\u67E5\u770B\u8D44\u6599"
+      - Bekijk profiel
+      - Lihat Profil
+      - "Profili G\xF6r\xFCnt\xFCle"
+      - "\u0E14\u0E39\u0E42\u0E1B\u0E23\u0E44\u0E1F\u0E25\u0E4C"
+      Flags: 000000000000000000000000000000
+      Languages_Touch: []
+    - Term: Social/txt_team_info_tittle
+      TermType: 0
+      Description: 
+      Languages:
+      - Team Info
+      - "Informations sur l'\xE9quipe"
+      - Teaminfo
+      - "Informaci\xF3n del equipo"
+      - "\uD300 \uC815\uBCF4"
+      - "\u30C1\u30FC\u30E0\u60C5\u5831"
+      - "Th\xF4ng tin \u0111\u1ED9i"
+      - "\u0418\u043D\u0444\u043E\u0440\u043C\u0430\u0446\u0438\u044F \u043E \u043A\u043E\u043C\u0430\u043D\u0434\u0435"
+      - "Informa\xE7\xF5es da equipe"
+      - Informazioni sulla squadra
+      - "\u56E2\u961F\u4FE1\u606F"
+      - Teaminfo
+      - Informasi Tim
+      - "Tak\u0131m Bilgisi"
+      - "\u0E02\u0E49\u0E2D\u0E21\u0E39\u0E25\u0E17\u0E35\u0E21"
       Flags: 000000000000000000000000000000
       Languages_Touch: []
     - Term: Tutorial/gp_1_1_1
@@ -19272,21 +19588,21 @@ MonoBehaviour:
       TermType: 0
       Description: 
       Languages:
-      - Frog Plate
-      - Assiette Grenouille
-      - Frosch-Platte
-      - Plato de rana
-      - "\uAC1C\uAD6C\uB9AC \uC811\uC2DC"
-      - "\u30D5\u30ED\u30C3\u30B0\u30D7\u30EC\u30FC\u30C8"
-      - "\u0110\u0129a \u1EBFch"
-      - "\u041B\u044F\u0433\u0443\u0448\u043A\u0430 \u0422\u0430\u0440\u0435\u043B\u043A\u0430"
-      - Prato de sapo
-      - Piatto di rana
-      - "\u9752\u86D9\u677F"
-      - Kikker plaat
-      - Piring Katak
-      - "Kurba\u011Fa Taba\u011F\u0131"
-      - "\u0E08\u0E32\u0E19\u0E01\u0E1A"
+      - Oven
+      - Fours
+      - "\xD6fen"
+      - Hornos
+      - "\uC624\uBE10"
+      - "\u30AA\u30FC\u30D6\u30F3"
+      - "L\xF2 n\u01B0\u1EDBng"
+      - "\u0434\u0443\u0445\u043E\u0432\u043A\u0438"
+      - Fornos
+      - Forni
+      - "\u70E4\u7BB1"
+      - Ovens
+      - Oven
+      - "F\u0131r\u0131nlar"
+      - "\u0E40\u0E15\u0E32\u0E2D\u0E1A"
       Flags: 000000000000000000000000000000
       Languages_Touch: []
     - Term: Upgrade/upgr_3_10
@@ -46196,7 +46512,7 @@ MonoBehaviour:
         {[NUM1]}/{[NUM2]}'
       - "2\uAC1C \uAD6C\uB9E4 1\uAC1C\r\n\uBB34\uB8CC\n{[NUM1]}/{[NUM2]}"
       - "2\u3092\u8CB7\u3046 1\u3092\u5F97\u308B\n\u81EA\u7531\n{[NUM1]}/{[NUM2]}"
-      - "MUA 2 T\u1EB6NG 1\r\nMI\u1EC4N PH\xCD\n{[NUM1]}/{[NUM2]}"
+      - "MUA 2 T\u1EB6NG 1\nMI\u1EC4N PH\xCD\n{[NUM1]}/{[NUM2]}"
       - "\u041A\u0423\u041F\u0418\u0422\u042C 2 \u041F\u041E\u041B\u0423\u0427\u0418\u0422\u042C
         1\r\n\u0421\u0412\u041E\u0411\u041E\u0414\u041D\u041E\n{[NUM1]}/{[NUM2]}"
       - "COMPRE 2 GANHE 1\nGR\xC1TIS\n{[NUM1]}/{[NUM2]}"
@@ -46465,7 +46781,7 @@ MonoBehaviour:
     Google_WebServiceURL: https://script.google.com/macros/s/AKfycbwx8e4FeC3qLYTx46pq8PLHRLid_dqJmsr6OJsJbsMdgkbyIb39e0ci4_2mzS-NkXiv/exec
     Google_SpreadsheetKey: 182mAa72-v6Bd7w7p2hf7EoX7sitijQPA2VBrTw3mLE4
     Google_SpreadsheetName: I2Loc Cooking Chef Fast
-    Google_LastUpdatedVersion: 1732460864403
+    Google_LastUpdatedVersion: 1733476149994
     Google_Password: GHM1BDolar
     GoogleUpdateFrequency: 3
     GoogleInEditorCheckFrequency: 2
